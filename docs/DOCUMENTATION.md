@@ -1,9 +1,13 @@
 # ATS-GUARD — Project Documentation
 
 **Author:** Nunes Arlindo Chirrute
+
 **Location:** Maputo, Mozambique
+
 **Year:** 2026
+
 **Field:** Industrial Electricity and Programming
+
 **Project Status:** In Development
 
 ## 1. Introduction
