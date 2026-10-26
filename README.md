@@ -73,14 +73,15 @@ activation of K1 and K2.
 The monitoring software must not be considered a safety-rated protection
 system.
 
+
 ## Future Improvements
 
-- Integrate the ESP32 into the monitoring circuit.
-- Implement the PC817 signal interface.
-- Test the signals from K1 and K2.
-- Verify abnormal-state detection.
-- Document the practical test results.
-- Update the code and schematic according to the final implementation.
+- Integrate ESP32 into the monitoring circuit
+- Implement the PC817 optocoupler signal interface
+- Test K1 and K2 feedback signals with ESP32 via PC817
+- Verify abnormal state detection logic
+- Document practical test results and measurements
+- Update code and schematic according to the final implementation
 
 ## Project Documentation
 
