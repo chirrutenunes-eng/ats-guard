@@ -86,7 +86,9 @@ system.
 ## Project Documentation
 
 Detailed technical documentation is available in the
-`docs/PROJECT_DOCUMENTATION.md` file.
+[docs/DOCUMENTATION.md](docs/DOCUMENTATION.md)`file.
+
+🎥 **Demo Video:** [Watch on YouTube](https://youtube.com/shorts/DIRaJ0ekB5Y?si=hce-8dxhDdu8e2tk)
 
 ## Author
 
