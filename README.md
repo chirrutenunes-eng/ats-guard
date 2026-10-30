@@ -83,14 +83,14 @@ system.
 - Document practical test results and measurements
 - Update code and schematic according to the final implementation
 
-## Project Documentation
+## Project Links
 
-Detailed technical documentation is available in the
+**Detailed technical documentation is available in the:**
 [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md)`file.
 
 🎥 **Demo Video:** [Watch on YouTube](https://youtube.com/shorts/DIRaJ0ekB5Y?si=hce-8dxhDdu8e2tk)
 
-**ATS-GUARD Project Schematics**: [ATS-GUARD_HW-REV-01_Motor-Reversing-Starter.pdf](ATS-GUARD_HW-REV-01_Motor-Reversing-Starter.pdf)
+**ATS-GUARD Project Schematics:** [ATS-GUARD_HW-REV-01_Motor-Reversing-Starter.pdf](ATS-GUARD_HW-REV-01_Motor-Reversing-Starter.pdf)
 
 ## Author
 
