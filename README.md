@@ -90,7 +90,7 @@ Detailed technical documentation is available in the
 
 🎥 **Demo Video:** [Watch on YouTube](https://youtube.com/shorts/DIRaJ0ekB5Y?si=hce-8dxhDdu8e2tk)
 
-[**VIEW SCHEMATICS - ATS-GUARD_HW-REV-01_Motor-Reversing-Starter.pdf**](ATS-GUARD_HW-REV-01_Motor-Reversing-Starter.pdf)
+[ATS-GUARD_HW-REV-01_Motor-Reversing-Starter.pdf](ATS-GUARD_HW-REV-01_Motor-Reversing-Starter.pdf)
 
 ## Author
 
